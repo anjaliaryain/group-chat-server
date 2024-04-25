@@ -4,18 +4,28 @@ This project is a backend application built with Spring Boot for hosting a group
 
 Key Features:
 
-User registration and login functionality with password encryption.
-REST endpoints for creating messages and retrieving message lists.
-WebSocket configuration for real-time messaging using STOMP protocol.
-Integration with Spring Security for securing endpoints.
-Utilizes JPA repositories for database interactions.
+> User registration and login functionality with password encryption.
+
+> REST endpoints for creating messages and retrieving message lists.
+
+> WebSocket configuration for real-time messaging using STOMP protocol.
+
+> Integration with Spring Security for securing endpoints.
+
+> Utilizes JPA repositories for database interactions.
 
 Technologies Used:
 
-Java
-Spring Boot
-Spring Security
-WebSocket
-Hibernate/JPA
-RESTful APIs
-MySQL
+> Java
+
+> Spring Boot
+
+> Spring Security
+
+> WebSocket
+
+> Hibernate/JPA
+
+> RESTful APIs
+
+> MySQL
